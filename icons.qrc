@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icon/Calendar.png</file>
+    <file>icon/program_icon_small.png</file>
+    <file>icon/Delete2.png</file>
+    <file>icon/Folder.png</file>
+    <file>icon/Magnifier.png</file>
+    <file>icon/Minus.png</file>
+    <file>icon/Move.png</file>
+    <file>icon/New.png</file>
+    <file>icon/Open.png</file>
+    <file>icon/Pencil.png</file>
+    <file>icon/Plus.png</file>
+    <file>icon/Save.png</file>
+  </qresource>
+</RCC>
